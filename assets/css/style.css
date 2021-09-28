@@ -1,0 +1,33 @@
+/* universal style */
+body,html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 2rem;
+    font-size: 16;
+    margin: auto;
+    box-sizing: border-box;
+}
+/* buttons style */
+.answer-item{
+    background: rgb(223, 201, 7);
+    width: 90%;
+    display: inline-block;
+    border-radius:8px;
+    padding: 3px;
+}
+#btn-start{
+    border:none;
+	padding:6px 0 6px 0;
+	border-radius:8px;
+	background:#8745ad;
+    font:bold 40px;
+	color:#fff;
+}
+.btn-primary{
+    background-color: #8745ad;
+    border: none;
+    border-radius: 0.3rem;
+}   
+.input-group-text{
+    color: #fff;
+}
