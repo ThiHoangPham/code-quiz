@@ -1,7 +1,7 @@
 # Coursework4: Code Quiz
 ---
 # Mockup Page: 
-![mockup-page](https://user-images.githubusercontent.com/88220398/133937894-ef26ad55-c707-4e01-b70a-143200499c5f.png)
+![mockup-page](https://user-images.githubusercontent.com/88220398/135046793-f79b18ae-61a7-4e76-9a0b-dac8ea9aaad8.png)
 ---
 # Jobs Have Been Done:
 - Comment in HTML, CSS, JavaScrips File
